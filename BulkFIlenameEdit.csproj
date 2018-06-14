@@ -119,6 +119,7 @@
     <Compile Include="Core\Builder\AddStaticStringBuilder.cs" />
     <Compile Include="Core\Builder\AddStringBuilder.cs" />
     <Compile Include="Core\Builder\ReplaceStringBuilder.cs" />
+    <Compile Include="Core\Filter\InBetweenSubStringFilter.cs" />
     <Compile Include="Core\Filter\RawFilenameFilter.cs" />
     <Compile Include="Core\Filter\RegexFilter.cs" />
     <Compile Include="Core\Filter\SplitFilter.cs" />
